@@ -313,9 +313,9 @@ public class NetplayService extends Service
         mUsingUpnp = true;
 
         mMiniUpnpLibrary.UPnPInit(2000);
-        boolean port1Success = mMiniUpnpLibrary.UPnP_Add("TCP","M64Plus Room", mRoomPort, mRoomPort);
-        boolean port2Success = mMiniUpnpLibrary.UPnP_Add("TCP", "M64Plus Core TCP", mTcpServer.getPort(), mTcpServer.getPort());
-        boolean port3Success = mMiniUpnpLibrary.UPnP_Add("UDP", "M64Plus Core UDP", mTcpServer.getPort(), mTcpServer.getPort());
+        boolean port1Success = mMiniUpnpLibrary.UPnP_Add("TCP","MPN Room", mRoomPort, mRoomPort);
+        boolean port2Success = mMiniUpnpLibrary.UPnP_Add("TCP", "MPN Core TCP", mTcpServer.getPort(), mTcpServer.getPort());
+        boolean port3Success = mMiniUpnpLibrary.UPnP_Add("UDP", "MPN Core UDP", mTcpServer.getPort(), mTcpServer.getPort());
 
         return port1Success && port2Success && port3Success;
     }
