@@ -11251,6 +11251,28 @@ gn Mario Party (U)
   D10F09F6 0040
   810FB1AC 2400
   81046DDC 2400
+ cn Always On: Unlock Everything
+  cd By: gamemasterplc.
+  81059428 2404
+  8105942A 00FF
+  810594C4 2404
+  810594C6 00FF
+  D10FDCD4 1440 
+  810FDCD4 1000 
+  D10FDD20 1440 
+  810FDD20 1000 
+  D10FDD10 1040 
+  810FDD10 2400 
+  D10FDD5C 1440 
+  810FDD5C 1000
+  D10F7CB8 8CC6 
+  810F7CB8 2406 
+  D10F7CBA 8A74
+  810F7CBA 0000
+  D10F7D24 1040
+  810F7D24 1000
+  D10F7F34 AC82
+  810F7F34 2400
  cn Board: BMM - Always Win Star Rolls
   cd By: Celery. Makes the Star/Bowser roll always result in a Star.
   D00D62D0 0001
@@ -11897,6 +11919,23 @@ gn Mario Party 2 (U)
  cn Always On: Skip Player Start Screen
   cd By: gamemasterplc.
   8104F0D4 1000
+ cn Always On: Unlock Everything
+  cd By: gamemasterplc
+  810F8C7C FFFF
+  810F8C7E FFFF
+  810F8C80 FFFF
+  810F8C82 FFFF
+  810F8C84 FFFF
+  810F8C86 FFFF
+  810F8C88 FFFF
+  810F8C8A FFFF
+  810F8C8C FFFF
+  D1102A3E 8011
+  81114742 0001
+  D1103CAA 4740
+  81114740 0001
+  D1103CCE 4870
+  81114870 0001
  cn Board: Bowser Land: Free Items from Koopa Kid
   cd By: gamemasterplc.
   D1112134 1440
@@ -12487,6 +12526,22 @@ gn Mario Party 3 (U)
   813FF0B6 BDC2
   813FF0B8 3042
   813FF0BA 8000
+ cn Always On: Unlock Everything
+  cd By: gamemasterplc.
+  D11A6356 0003
+  811A6354 0004
+  D1113398 1040
+  81113398 2400
+  D111180A 0001
+  8111180A 0000
+  D111182E FFFF
+  8111182E 0000
+  D1105F98 1040
+  8011B8A4 0001
+  D1113FD4 5440
+  81113FD4 1000
+  D110D432 0048
+  8110D434 2400 
  cn Board: Chilly Waters: No Ice Slip
   cd By: gamemasterplc.
   D1118AD6 60C2
